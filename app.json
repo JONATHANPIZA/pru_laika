@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "pru_laika",
+    "slug": "pru_laika",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.tatan28.pru_laika"
+    }
+  }
+}
